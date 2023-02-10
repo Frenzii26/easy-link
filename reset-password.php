@@ -66,7 +66,7 @@
                 password.
             </p>
 
-            <form action="assets/config/login_control" method="post">
+            <form action="assets/config/reset_config" method="post">
               <div class="field input-field">
                 <input type="email" name="email" placeholder="Enter your email address..." class="input">
               </div>
